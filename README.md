@@ -1,2 +1,2 @@
-# learngrowdev
+# LearnTrail
 Learning for Tech Professionals
